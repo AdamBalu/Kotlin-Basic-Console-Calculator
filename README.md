@@ -1,6 +1,6 @@
-*The program handles basic calculator operations*
+## The program handles basic calculator operations
 
-***COMMANDS***  
+#### COMMANDS
 ```
     /help  
         prints this help  
@@ -15,7 +15,7 @@ and later you can use them in your calculations or display their value by typing
   
 Hit ENTER to launch the calculator and get your result!  
   
-***SUPPORTED OPERATORS***  
+#### SUPPORTED OPERATORS  
 ```
     +   binary addition  
     -   unary and binary subtraction  
