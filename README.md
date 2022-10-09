@@ -3,7 +3,7 @@
 The program handles basic calculator operations
 
 #### COMMANDS
-```
+```markdown
 /help  
     prints this help  
 /exit  
