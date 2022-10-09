@@ -17,7 +17,7 @@ You can also declare variables with '=', i.e. *MY_VAR = 50* and later you can us
 Hit ENTER to launch the calculator and get your result!  
   
 #### SUPPORTED OPERATORS  
-```gh
+```cpp
 +   binary addition  
 -   unary and binary subtraction  
 *   binary multiplication  
