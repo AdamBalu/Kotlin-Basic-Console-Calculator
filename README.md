@@ -3,7 +3,7 @@
 The program handles basic calculator operations
 
 #### COMMANDS
-```
+```github
 /help  
     prints this help  
 /exit  
