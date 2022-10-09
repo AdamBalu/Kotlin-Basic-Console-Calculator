@@ -1,4 +1,4 @@
-**The program handles basic calculator operations**
+*The program handles basic calculator operations*
 
 ***COMMANDS***  
 ```
