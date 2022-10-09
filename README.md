@@ -1,4 +1,6 @@
-## The program handles basic calculator operations
+## Kotlin Calculator
+
+The program handles basic calculator operations
 
 #### COMMANDS
 ```
