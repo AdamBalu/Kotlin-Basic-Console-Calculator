@@ -1,10 +1,12 @@
 **The program handles basic calculator operations**
 
-***COMMANDS***  \
+***COMMANDS***  
+```
     /help  
         prints this help  
     /exit  
         ends the program  
+```
         
 Start typing any basic math operation composed of [SUPPORTED OPERATORS].  
   
@@ -14,8 +16,10 @@ and later you can use them in your calculations or display their value by typing
 Hit ENTER to launch the calculator and get your result!  
   
 ***SUPPORTED OPERATORS***  
+```
     +   binary addition  
     -   unary and binary subtraction  
     *   binary multiplication  
     /   binary division  
     ()  parentheses  
+```
