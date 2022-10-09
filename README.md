@@ -1,6 +1,6 @@
 **The program handles basic calculator operations**
 
-***COMMANDS***  
+***COMMANDS***  \
     /help  
         prints this help  
     /exit  
